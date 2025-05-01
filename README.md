@@ -28,7 +28,7 @@
 
 ### 🎮 [Videojuego en Godot](https://github.com/ledyam/Kylom-Fantasy)  
 - Motor: **Godot Engine** (GDScript).  
-- Features: Sistema de diálogos, IA enemiga, físicas personalizadas.  
+- Features: Sistema de inventario, Sistema de Droop, físicas top-down.  
 - ![Demo GIF](link_a_gif) *(opcional)*  
 
 ### 🌐 [Proyecto Final de Ingeniería de Software](https://github.com/ledyam/Restaurant-Proyect)  
