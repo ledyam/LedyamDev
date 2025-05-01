@@ -37,7 +37,7 @@
 
 ---
 
-## 🌱 Objetivos 2024  
+## 🌱 Objetivos 2025  
 1. 🏦 **Tecnologías bancarias**: Aprender sobre sistemas transaccionales y APIs financieras.  
 2. ⚙️ **Backend con SpringBoot**: Profundizar en Java para desarrollo empresarial.  
 3. 🎯 **Inglés técnico**: Alcanzar nivel B1 para documentación y colaboración global.  
@@ -48,7 +48,7 @@
 ¡Estoy **abierto a colaborar** en proyectos de:  
 - 🕹️ **Desarrollo de videojuegos 2D** (Godot Engine).  
 - 🧪 **Testing automatizado** en Python.  
-- 🔍 **Proyectos académicos** relacionados con IA o bases de datos.  
+- 🔍 **Proyectos académicos** relacionados con IA o Desarrollo de Videojuegos.  
 
 ---
 
