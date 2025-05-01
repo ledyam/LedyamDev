@@ -17,7 +17,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godot-engine&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
 
 ### 🎮 Game Development  
-![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?logo=godot-engine&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white) *(Modelado básico 3D)*  
+![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?logo=godot-engine&logoColor=white) ![Asesprite](https://img.shields.io/badge/Asesprite-F5792A?logo=asesprite&logoColor=white) *(Diseñador 2D Básico)*  
 
 ### 🌐 Web Development  
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white) *(En aprendizaje)*  
@@ -26,12 +26,12 @@
 
 ## 🚀 Proyectos Destacados  
 
-### 🎮 [Videojuego en Godot](link_al_repo)  
+### 🎮 [Videojuego en Godot]([link_al_repo](https://github.com/ledyam/Kylom-Fantasy))  
 - Motor: **Godot Engine** (GDScript).  
 - Features: Sistema de diálogos, IA enemiga, físicas personalizadas.  
 - ![Demo GIF](link_a_gif) *(opcional)*  
 
-### 🌐 [Proyecto Final de Ingeniería de Software](link_al_repo)  
+### 🌐 [Proyecto Final de Ingeniería de Software](https://github.com/ledyam/Restaurant-Proyect)  
 - Stack: Backend en Python + Frontend (HTML/CSS/JS).  
 - Metodologías: **Scrum, UML**.  
 
