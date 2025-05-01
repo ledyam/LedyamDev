@@ -26,7 +26,7 @@
 
 ## 🚀 Proyectos Destacados  
 
-### 🎮 [Videojuego en Godot][(https://github.com/ledyam/Kylom-Fantasy]  
+### 🎮 [Videojuego en Godot](https://github.com/ledyam/Kylom-Fantasy)  
 - Motor: **Godot Engine** (GDScript).  
 - Features: Sistema de diálogos, IA enemiga, físicas personalizadas.  
 - ![Demo GIF](link_a_gif) *(opcional)*  
