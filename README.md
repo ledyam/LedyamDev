@@ -20,7 +20,7 @@
 ![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?logo=godot-engine&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white) *(Diseñador 2D Básico)*  
 
 ### 🌐 Web Development  
-- ![FastAPI](https://img.shields.io/badge/Fastapi-F5792A?logo=fastapi&logoColor=blue)  ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white) *(En aprendizaje)*  
+- ![FastAPI](https://img.shields.io/badge/Fastapi-F5792A?logo=fastapi&logoColor=white)  ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white) *(En aprendizaje)*  
 
 ---
 
