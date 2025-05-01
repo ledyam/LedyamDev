@@ -29,7 +29,7 @@
 ### 🎮 [Videojuego en Godot](https://github.com/ledyam/Kylom-Fantasy)  
 - Motor: **Godot Engine** (GDScript).  
 - Features: Sistema de inventario, Sistema de Droop, físicas top-down.  
-- ![Demo GIF](link_a_gif) *(opcional)*  
+- ![Demo GIF] (en desarrollo)
 
 ### 🌐 [Proyecto Final de Ingeniería de Software](https://github.com/ledyam/Restaurant-Proyect)  
 - Stack: Backend en Python + Frontend (HTML/CSS/JS).  
@@ -55,7 +55,7 @@
 ## 📫 Contacto  
 📧 **Email**: [ramosledyam@gmail.com](mailto:ramosledyam@gmail.com)  
 🔗 **LinkedIn**: [Ledyam Ramos](https://www.linkedin.com/in/ledyam-ramos-798a35350)  
-🐱 **GitHub**: [@TuUsuario](https://github.com/TuUsuario) *(reemplaza con tu link)*  
+🐱 **GitHub**: [@ledyam](https://github.com/ledyam) 
 
 --- 
 
